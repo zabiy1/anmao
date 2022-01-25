@@ -38,7 +38,7 @@
         <div class="welcome-bg FILL"></div>
         <div class="FILL BOX-M" style="position:absolute;top:0;left:0;right:0;bottom:0;z-index:5;">
             <div style="margin:0 8% 0 9%;">
-                <div style="font-size:2.6em; color:#FEF002;">新概念音游</div><br />
+                <div style="font-size:2.6em; color:#FEF002;">推倒暗猫猫</div><br />
                 <div style="font-size:2.2em; color:#fff; line-height:1.5em;">
                     从最底下暗猫猫开始<br />
                     看看你20秒能多少分<br />
